@@ -2,4 +2,5 @@
 This is test-file2 sentence1.
 This is test-file2 sentence2.
 This is test-file2 sentence3.
+This is test-file2 sentence4.
 
