@@ -10,5 +10,3 @@ This is test-file2 sentence8.
 This is test-file2 sentence9.
 This is test-file2 sentence10.
 aaaaaaaaa
-bbbbb
-ccc
